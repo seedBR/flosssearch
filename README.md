@@ -18,3 +18,7 @@ All projects available here are hosted on GitHub website. We used the Open Hub t
 ## License
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License (GLP) as published by the Free Software Foundation. Information about the GNU General Public License can be found at http://www.gnu.org/licenses/. 
+
+## Other Information
+
+Forked from Moara's repository in Oct/2020. Pre-release 1.0, release name is "vitoria".
